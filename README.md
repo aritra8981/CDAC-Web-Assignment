@@ -68,6 +68,3 @@ This login form should work in all modern browsers. For the best experience, use
 
 Feel free to fork this project and submit pull requests with any enhancements. You can also open issues if you find any bugs or have feature suggestions.
 
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
